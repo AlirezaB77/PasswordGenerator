@@ -1,4 +1,3 @@
-```markdown
 # Password Generator
 
 This project provides a set of functions for generating different types of passwords.
